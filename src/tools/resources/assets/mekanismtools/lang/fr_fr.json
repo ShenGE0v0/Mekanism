@@ -597,7 +597,7 @@
   "configuration.mekanismtools.startup.materials.wood.top_level.tooltip": "Paramètres Vanilla des matériaux pour les piachelles en bois.",
   "constants.mekanismtools.mod_name": "Mekanism: Tools",
   "constants.mekanismtools.pack_description": "Ressources utilisées pour Mekanism: Tools",
-  "fml.menu.mods.info.description.mekanismtools": "Module Outils pour Mekanism",
+  "neoforge.screen.mods.info.description.mekanismtools": "Module Outils pour Mekanism",
   "item.mekanismtools.bronze_axe": "Hache en bronze",
   "item.mekanismtools.bronze_boots": "Bottes en bronze",
   "item.mekanismtools.bronze_chestplate": "Plastron en bronze",

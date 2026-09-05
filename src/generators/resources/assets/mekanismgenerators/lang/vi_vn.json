@@ -253,7 +253,7 @@
   "fission.mekanismgenerators.stats": "Thống kê Lò Phản ứng Phân hạch",
   "fission.mekanismgenerators.surface_area": "Diện tích Bề mặt Nhiên liệu: %1$s m2",
   "fission.mekanismgenerators.waste_tank": "Bình chứa Chất thải",
-  "fml.menu.mods.info.description.mekanismgenerators": "Module phát điện cho Mekanism",
+  "neoforge.screen.mods.info.description.mekanismgenerators": "Module phát điện cho Mekanism",
   "gui.mekanismgenerators.bio_generator.bio_fuel": "Nhiên liệu Sinh học: %1$s",
   "gui.mekanismgenerators.gas_burning_generator.burn_rate": "Tốc độ Đốt: %1$s mB/t",
   "gui.mekanismgenerators.output_rate.short": "Xuất: %1$s/t",

@@ -1317,7 +1317,7 @@
   "fluid_container.mekanism.both": "Beides",
   "fluid_container.mekanism.empty": "Leeren",
   "fluid_container.mekanism.fill": "Füllen",
-  "fml.menu.mods.info.description.mekanism": "Mekanism ist ein Minecraft-Add-on mit High-Tech-Maschinen, die zur Herstellung von mächtigen Werkzeugen, Rüstungen und Waffen verwendet werden können.",
+  "neoforge.screen.mods.info.description.mekanism": "Mekanism ist ein Minecraft-Add-on mit High-Tech-Maschinen, die zur Herstellung von mächtigen Werkzeugen, Rüstungen und Waffen verwendet werden können.",
   "free_runner.mekanism.disabled": "Deaktiviert",
   "free_runner.mekanism.mode_change": "Freiläufer-Modus geändert zu: %1$s",
   "free_runner.mekanism.normal": "Regulär",

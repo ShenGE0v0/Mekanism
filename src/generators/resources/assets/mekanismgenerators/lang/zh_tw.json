@@ -139,7 +139,7 @@
   "fission.mekanismgenerators.stats": "核分裂反應爐統計資料",
   "fission.mekanismgenerators.surface_area": "燃料表面積：%1$s m²",
   "fission.mekanismgenerators.waste_tank": "廢料槽",
-  "fml.menu.mods.info.description.mekanismgenerators": "通用機械的發電機模組",
+  "neoforge.screen.mods.info.description.mekanismgenerators": "通用機械的發電機模組",
   "gui.mekanismgenerators.bio_generator.bio_fuel": "生物燃料：%1$s",
   "gui.mekanismgenerators.gas_burning_generator.burn_rate": "燃燒速率：%1$s mB/t",
   "gui.mekanismgenerators.output_rate.short": "輸出：%1$s/t",

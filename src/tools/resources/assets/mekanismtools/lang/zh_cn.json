@@ -621,7 +621,7 @@
   "configuration.mekanismtools.startup.materials.wood.top_level.tooltip": "木质原版材料 镐尖斧 设置",
   "constants.mekanismtools.mod_name": "通用机械：工具",
   "constants.mekanismtools.pack_description": "给通用机械：工具用的资源",
-  "fml.menu.mods.info.description.mekanismtools": "通用机械的工具模组",
+  "neoforge.screen.mods.info.description.mekanismtools": "通用机械的工具模组",
   "item.mekanismtools.bronze_axe": "青铜斧",
   "item.mekanismtools.bronze_boots": "青铜靴子",
   "item.mekanismtools.bronze_chestplate": "青铜胸甲",

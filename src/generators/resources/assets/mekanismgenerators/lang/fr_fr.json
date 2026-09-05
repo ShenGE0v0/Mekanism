@@ -126,7 +126,7 @@
   "fission.mekanismgenerators.stats": "Statistiques du réacteur à fission",
   "fission.mekanismgenerators.surface_area": "Surface de carburant: %1$s m2",
   "fission.mekanismgenerators.waste_tank": "Réservoir de déchets",
-  "fml.menu.mods.info.description.mekanismgenerators": "Module de générateurs pour Mekanism",
+  "neoforge.screen.mods.info.description.mekanismgenerators": "Module de générateurs pour Mekanism",
   "gui.mekanismgenerators.bio_generator.bio_fuel": "Biocarburant: %1$s",
   "gui.mekanismgenerators.gas_burning_generator.burn_rate": "Taux de combustion: %1$s mB/t",
   "gui.mekanismgenerators.output_rate.short": "Sortie: %1$s/t",

@@ -117,7 +117,7 @@
   "fission.mekanismgenerators.stats": "Статистика Ядерного реактора",
   "fission.mekanismgenerators.surface_area": "Площадь топлива: %1$s m2",
   "fission.mekanismgenerators.waste_tank": "Бак отходов",
-  "fml.menu.mods.info.description.mekanismgenerators": "Модуль генераторов для Mekanism",
+  "neoforge.screen.mods.info.description.mekanismgenerators": "Модуль генераторов для Mekanism",
   "gui.mekanismgenerators.bio_generator.bio_fuel": "Биотопливо: %1$s",
   "gui.mekanismgenerators.gas_burning_generator.burn_rate": "Интенсивность горения: %1$s",
   "gui.mekanismgenerators.output_rate.short": "Выход: %1$s/t",

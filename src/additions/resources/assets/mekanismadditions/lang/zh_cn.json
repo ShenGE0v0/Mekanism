@@ -406,7 +406,7 @@
   "entity.mekanismadditions.baby_wither_skeleton": "凋灵骷髅宝宝",
   "entity.mekanismadditions.balloon": "气球",
   "entity.mekanismadditions.obsidian_tnt": "黑曜石TNT",
-  "fml.menu.mods.info.description.mekanismadditions": "Mekanism 的补充模组，包含与其他模组主题不符的杂项内容",
+  "neoforge.screen.mods.info.description.mekanismadditions": "Mekanism 的补充模组，包含与其他模组主题不符的杂项内容",
   "item.mekanismadditions.aqua_balloon": "水色气球",
   "item.mekanismadditions.baby_bogged_spawn_egg": "泥沼宝宝刷怪蛋",
   "item.mekanismadditions.baby_creeper_spawn_egg": "苦力怕宝宝刷怪蛋",

@@ -2301,7 +2301,7 @@
   "fluid_container.mekanism.both": "两者",
   "fluid_container.mekanism.empty": "倒空",
   "fluid_container.mekanism.fill": "填充",
-  "fml.menu.mods.info.description.mekanism": "通用机械模组能让你借助高新的技术与机器，制作一系列强力的工具、装备和武器！",
+  "neoforge.screen.mods.info.description.mekanism": "通用机械模组能让你借助高新的技术与机器，制作一系列强力的工具、装备和武器！",
   "free_runner.mekanism.disabled": "禁用",
   "free_runner.mekanism.mode_change": "自由助跑器模式更改为：%1$s",
   "free_runner.mekanism.normal": "正常",

@@ -955,7 +955,7 @@
   "fluid_container.mekanism.both": "Keduanya",
   "fluid_container.mekanism.empty": "Kosong",
   "fluid_container.mekanism.fill": "Isi",
-  "fml.menu.mods.info.description.mekanism": "Mekanism adalah add-on Minecraft yang menampilkan mesin berteknologi tinggi yang dapat digunakan untuk membuat peralatan, baju besi, dan senjata yang kuat.",
+  "neoforge.screen.mods.info.description.mekanism": "Mekanism adalah add-on Minecraft yang menampilkan mesin berteknologi tinggi yang dapat digunakan untuk membuat peralatan, baju besi, dan senjata yang kuat.",
   "free_runner.mekanism.disabled": "Nonaktif",
   "free_runner.mekanism.mode_change": "Mode pelari bebas dirubah menjadi: %1$s",
   "free_runner.mekanism.normal": "Biasa",

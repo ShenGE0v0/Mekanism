@@ -129,7 +129,7 @@
   "fission.mekanismgenerators.stats": "핵분열 원자로 통계",
   "fission.mekanismgenerators.surface_area": "연료 표면 넒이: %1$s m2",
   "fission.mekanismgenerators.waste_tank": "핵폐기물 탱크",
-  "fml.menu.mods.info.description.mekanismgenerators": "Mekanism의 발전기 모듈입니다.",
+  "neoforge.screen.mods.info.description.mekanismgenerators": "Mekanism의 발전기 모듈입니다.",
   "gui.mekanismgenerators.bio_generator.bio_fuel": "바이오연료: %1$s",
   "gui.mekanismgenerators.gas_burning_generator.burn_rate": "연소 속도: %1$s mB/t",
   "gui.mekanismgenerators.output_rate.short": "출력: %1$s/t",

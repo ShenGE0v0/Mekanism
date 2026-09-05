@@ -1097,7 +1097,7 @@
   "fluid_container.mekanism.both": "Abi",
   "fluid_container.mekanism.empty": "Iztukšot",
   "fluid_container.mekanism.fill": "Pildīt",
-  "fml.menu.mods.info.description.mekanism": "Mekanism ir Minecraft papildinājums ar attīstītu tehnoloģiju iekārtām, kuras var izmantot, lai radītu jaudīgus rīkus, bruņas un ieročus.",
+  "neoforge.screen.mods.info.description.mekanism": "Mekanism ir Minecraft papildinājums ar attīstītu tehnoloģiju iekārtām, kuras var izmantot, lai radītu jaudīgus rīkus, bruņas un ieročus.",
   "free_runner.mekanism.disabled": "Izslēgts",
   "free_runner.mekanism.mode_change": "BrīvSkrējēja režīms pārslēgts uz: %1$s",
   "free_runner.mekanism.normal": "Parasts",

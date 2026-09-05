@@ -253,7 +253,7 @@
   "fission.mekanismgenerators.stats": "裂变反应堆统计",
   "fission.mekanismgenerators.surface_area": "燃料组件表面积：%1$s m²",
   "fission.mekanismgenerators.waste_tank": "废料储罐",
-  "fml.menu.mods.info.description.mekanismgenerators": "通用机械的发电机模组",
+  "neoforge.screen.mods.info.description.mekanismgenerators": "通用机械的发电机模组",
   "gui.mekanismgenerators.bio_generator.bio_fuel": "生物燃料：%1$s",
   "gui.mekanismgenerators.gas_burning_generator.burn_rate": "消耗速度：%1$s",
   "gui.mekanismgenerators.output_rate.short": "输出：%1$s/t",

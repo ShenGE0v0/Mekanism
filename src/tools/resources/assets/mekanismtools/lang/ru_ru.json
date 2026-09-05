@@ -151,7 +151,7 @@
   "configuration.mekanismtools.server.gear_spawn_chance.steel.spawn_weapon": "С оружием",
   "constants.mekanismtools.mod_name": "Mekanism: Tools",
   "constants.mekanismtools.pack_description": "Ресурсы, используемые для Mekanism: Tools",
-  "fml.menu.mods.info.description.mekanismtools": "Модуль инструментов для Mekanism",
+  "neoforge.screen.mods.info.description.mekanismtools": "Модуль инструментов для Mekanism",
   "item.mekanismtools.bronze_axe": "Бронзовый топор",
   "item.mekanismtools.bronze_boots": "Бронзовые ботинки",
   "item.mekanismtools.bronze_chestplate": "Бронзовый нагрудник",

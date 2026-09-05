@@ -206,7 +206,7 @@
   "fission.mekanismgenerators.stats": "Kodolreaktora Statistika",
   "fission.mekanismgenerators.surface_area": "Kodoldegvielas Virsmas Laukums: %1$s m2",
   "fission.mekanismgenerators.waste_tank": "Kodolatkritumu Tvertne",
-  "fml.menu.mods.info.description.mekanismgenerators": "Ģeneratoru modulis priekš Mekanism",
+  "neoforge.screen.mods.info.description.mekanismgenerators": "Ģeneratoru modulis priekš Mekanism",
   "gui.mekanismgenerators.bio_generator.bio_fuel": "BioDegviela: %1$s",
   "gui.mekanismgenerators.gas_burning_generator.burn_rate": "Patēriņš: %1$s mB/t",
   "gui.mekanismgenerators.output_rate.short": "Izvade: %1$s/t",

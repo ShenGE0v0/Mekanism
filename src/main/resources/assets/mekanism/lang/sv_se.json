@@ -1000,7 +1000,7 @@
   "fluid_container.mekanism.both": "Båda",
   "fluid_container.mekanism.empty": "Töm",
   "fluid_container.mekanism.fill": "Fyll",
-  "fml.menu.mods.info.description.mekanism": "Mekanism är ett Minecraft-tillägg med högteknologiska maskiner som kan användas för att skapa kraftfulla verktyg, rustningar och vapen.",
+  "neoforge.screen.mods.info.description.mekanism": "Mekanism är ett Minecraft-tillägg med högteknologiska maskiner som kan användas för att skapa kraftfulla verktyg, rustningar och vapen.",
   "free_runner.mekanism.disabled": "Inaktiverad",
   "free_runner.mekanism.mode_change": "Frilöparläget ändrades till: %1$s",
   "free_runner.mekanism.normal": "Vanlig",
